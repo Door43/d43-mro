@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mro:home|Door43 (mro)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mro|d43-mro repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mro/archive/master.zip|d43-mro.zip]]
+
+**Recent Changes**
+{{changes>ns = mro}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mro|Ethnologue data]]
+
